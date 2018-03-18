@@ -195,9 +195,9 @@ progress::-moz-progress-value {
     background-size: 120%;
     background-position:center;
     border-radius:50%;
-    border:5px solid #607d8b;
+    /*border:5px solid lightblue;*/
     width:162px;
-    height:172px;
+    height:178px;
 }
 
 
