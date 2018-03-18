@@ -189,8 +189,8 @@ progress::-moz-progress-value {
 
 .portrait {
     margin: 0 auto;
-    margin-top:10px;
-    margin-bottom: 0;
+    margin-top:20px;
+    margin-bottom: 10px;
     border-radius:50%;
     /*background-image:url('jingchao.xyz/resume/static/resume.jpg');
     background-size: 120%;
