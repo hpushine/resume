@@ -189,15 +189,15 @@ progress::-moz-progress-value {
 
 .portrait {
     margin: 0 auto;
-    margin-top:20px;
-    margin-bottom: 10px;
-    /*background-image:url('jingchao.xyz/resume/static/resume.jpg');*/
+    margin-top:10px;
+    margin-bottom: 0;
+    border-radius:50%;
+    /*background-image:url('jingchao.xyz/resume/static/resume.jpg');
     background-size: 120%;
     background-position:center;
-    border-radius:50%;
-    /*border:5px solid lightblue;*/
-    width:162px;
-    height:178px;
+    border:5px solid lightblue;*/
+    width:160px;
+    height:173px;
 }
 
 
