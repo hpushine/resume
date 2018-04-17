@@ -121,6 +121,7 @@ hr {
 
 
 body {
+    font-size: 17px;
     background-color: lightslategray;
     font-family: sans-serif, Microsoft Yahei, Helvetica Neue;
     zoom: 80%;
@@ -130,7 +131,8 @@ footer {
 }
 
 p {
-    line-height: 1.5;
+    /*line-height: 1.5;*/
+    line-height: 2;
 }
 
 progress {
@@ -191,13 +193,13 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    border-radius:50%;
+    /*border-radius:50%;*/
     /*background-image:url('jingchao.xyz/resume/static/resume.jpg');
     background-size: 120%;
     background-position:center;
     border:5px solid lightblue;*/
-    width:160px;
-    height:173px;
+    width:135px;
+    height:182px;
 }
 
 
